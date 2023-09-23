@@ -1,0 +1,9 @@
+# Check version 
+> git version
+
+# Set username and email
+> git config --global user.name "user name"
+> git config --global user.email "email ID"
+
+# List all the git settings
+> git config --global --list
